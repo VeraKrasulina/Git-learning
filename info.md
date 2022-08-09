@@ -1,4 +1,4 @@
-# **Working with Git in Visual Studio Code**
+# **Working with Git in Visual Studio Code: student notes**
 ## **Beginning**
 ### **Why we need versions?**
 *Сохранение версий нужно для того, чтобы хранить и возвращаться к любой предидущей версии. Навигировать через версии.
